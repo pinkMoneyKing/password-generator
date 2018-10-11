@@ -2,6 +2,8 @@
 
 """
     Password Generator
+    
+    by Pink Money King
 """
 
 import string
