@@ -2,6 +2,8 @@
 
 """
     Password Generator
+
+    by pink-money-king
 """
 
 import string
@@ -43,4 +45,6 @@ def main():
     print('\t$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$')
     print('\t$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$\n\n')
 
-main()
+
+if __name__ == "__main__":
+    main()
